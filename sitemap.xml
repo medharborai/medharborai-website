@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://medharborai.com/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://medharborai.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://medharborai.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://medharborai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://medharborai.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://medharborai.com/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://medharborai.com/"/>
+  </url>
+  <url>
+    <loc>https://medharborai.com/de/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://medharborai.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://medharborai.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://medharborai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://medharborai.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://medharborai.com/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://medharborai.com/"/>
+  </url>
+  <url>
+    <loc>https://medharborai.com/fr/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://medharborai.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://medharborai.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://medharborai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://medharborai.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://medharborai.com/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://medharborai.com/"/>
+  </url>
+  <url>
+    <loc>https://medharborai.com/es/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://medharborai.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://medharborai.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://medharborai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://medharborai.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://medharborai.com/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://medharborai.com/"/>
+  </url>
+  <url>
+    <loc>https://medharborai.com/ua/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://medharborai.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://medharborai.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://medharborai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://medharborai.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://medharborai.com/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://medharborai.com/"/>
+  </url>
+</urlset>

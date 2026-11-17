@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medharborai.com/sitemap.xml
